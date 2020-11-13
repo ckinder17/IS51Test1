@@ -1,0 +1,7 @@
+if "option1"
+    print response
+        "Option 1 is better"
+
+if "option2"
+    print response
+        "Option 2 is better"
